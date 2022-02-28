@@ -1,0 +1,318 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Peitharchia obedience to magistrates, both supreme and subordinate. In three sermons, preached upon the anniversarie election-day of three Lord Majors successively, viz. Sr. Thomas Viner, elected, September 29. 1653. Sr. Christopher Pack, on the same day, 1654. Alderman John Dethicke Esq. now Lord Elect, chosen the same day. 1655. At the church of Lawrence Jewrie London, together with a fourth sermon tending towards a description of the corruption of the mind, preacht at Pauls on the 24th day of June, 1655. / By Richard Vines.</title>
+            <author>Vines, Richard, 1600?-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95977</idno>
+            <idno type="STC">Wing V561</idno>
+            <idno type="STC">Wing V570</idno>
+            <idno type="STC">Wing V571</idno>
+            <idno type="STC">Wing V549</idno>
+            <idno type="STC">Thomason E858_4</idno>
+            <idno type="STC">Thomason E858_4*</idno>
+            <idno type="STC">Thomason E858_5</idno>
+            <idno type="STC">Thomason E858_5*</idno>
+            <idno type="STC">ESTC R203881</idno>
+            <idno type="EEBO-CITATION">99863673</idno>
+            <idno type="PROQUEST">99863673</idno>
+            <idno type="VID">168345</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95977)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168345)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 130:E858[4] and 130:E858[4*] and 130:E858[5] or 130:E858[5*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Peitharchia obedience to magistrates, both supreme and subordinate. In three sermons, preached upon the anniversarie election-day of three Lord Majors successively, viz. Sr. Thomas Viner, elected, September 29. 1653. Sr. Christopher Pack, on the same day, 1654. Alderman John Dethicke Esq. now Lord Elect, chosen the same day. 1655. At the church of Lawrence Jewrie London, together with a fourth sermon tending towards a description of the corruption of the mind, preacht at Pauls on the 24th day of June, 1655. / By Richard Vines.</title>
+                  <author>Vines, Richard, 1600?-1656.</author>
+               </titleStmt>
+               <extent>[8], 26; [2], 20; [2], 22; [2], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Abel Rober at the Sun against Dunstans Church in Fleetstreet,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First word of title in Greek characters.</note>
+                  <note>Also issued as part of his: Sermons preached upon several publike and eminent occasions (Wing V569).</note>
+                  <note>"Subjection to magistrates .. laid open in a second sermon" (Wing V570) "Subjection to magistrates: .. presented in a third sermon" (Wing V571) and "The corruption of minde" (Wing V549) each have separate pagination, register, and title page dated 1655, 1656, and undated respectively.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Viner, Robert, --  Sir, 1631-1688.</term>
+               <term>Packe, Christopher, --  Sir, 1593?-1682.</term>
+               <term>Dethick, John, --  Sir, d. 1671.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168345:1" rendition="simple:additions"/>
+            <p>
+               <hi>S<g ref="char:V">Ʋ</g>BJECTION</hi> TO MAGISTRATES: <hi>BOTH</hi> Divine and Subordinate, Preſented in a third SERMON, Preached at the Election of the Lord Major of <hi>London,</hi> on <hi>Michaelmas</hi> day, 1655.</p>
+            <p>
+               <hi>By</hi> Richard Vines, <hi>Preacher of Gods Word at</hi> Laurence Jury London.</p>
+            <q>
+               <bibl>Rom. 13. 1.</bibl> Let every ſoul be ſubject to the higher power, for there is no power but of God. The powers that be are ordained of God.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Abel Roper</hi> at the <hi>Sun,</hi> over againſt St. <hi>Dunſtans</hi> Church in <hi>Fleetſtreet.</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168345:2"/>
+            <pb n="1" facs="tcp:168345:2"/>
+            <head>Subjection to Magiſtrates both Supream and Subordinate, <hi>The Third Sermon,</hi> at the Election of the Lord Major of <hi>LONDON.</hi>
+            </head>
+            <epigraph>
+               <bibl>TITUS 3. 1.</bibl>
+               <q>Put them in minde to be ſubject to Principalities and Powers, to obey Magiſtrates, &amp;c.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">S</seg>Ubjection to Civil Magiſtracie, even that, which obtained in the world at that time preſt upon them of Chriſtian profeſſion with ſuch co<g ref="char:EOLhyphen"/>gent Arguments; as are uſed by <hi>St. Paul, Rom. 13. 1, 2, &amp;c.</hi> and by St <hi>Peter, 1. Epiſt.
+<pb n="4" facs="tcp:168345:3"/> Cap. 2. verſ.</hi> 13, 14, 15. doth perſpicuouſly intimate that which <hi>Calvin</hi> obſerveth, what adoe the Apo<g ref="char:EOLhyphen"/>ſtles had to contain the new World of Chriſtiani<g ref="char:EOLhyphen"/>ty within the true bounds of this duty, which he calls in my text <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>obedience to Magiſtracie.</hi> For</p>
+            <p>1 The aſpect or influence of Civil Authority at that time, Heatheniſh, was very malignant to Chriſtianity.</p>
+            <p>2 The Goſpel liberty unto which the Chri<g ref="char:EOLhyphen"/>ſtians were called, was by many <hi>Pſeudochriſtians</hi> ſtretched beyond the line, and miſtaken, or miſ<g ref="char:EOLhyphen"/>uſed unto ſcandal and abuſe.</p>
+            <p>3 That old ferment of the <hi>Jews,</hi> being a mu<g ref="char:EOLhyphen"/>tinous and ſeditions temper againſt all Forreigne and Gentile authority, in defence of their own <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, had with either Jewiſh Fables, <hi>Titus</hi> 1. 14. ſpread into the Iſland, and inflamed the natu<g ref="char:EOLhyphen"/>ral humour thereof, which (as one obſerved) was always ſeditious, and whoſe infamous character gi<g ref="char:EOLhyphen"/>ven of them by <hi>Epimenides,</hi> one of their own, e<g ref="char:EOLhyphen"/>ven <hi>a Prophet of their own,</hi> the Apoſtle verifies, <hi>Titus 1. verſ. 12, 13. The Cretians are alwayes lyars, evil beaſts, idle bellies.</hi>
+            </p>
+            <p>Whether ſome particular Reaſon at that time<g ref="char:EOLhyphen"/>indiſpoſed Chriſtians to ſubjection unto Magiſtra<g ref="char:EOLhyphen"/>cie? or whether the univerſal pride of man aſpi<g ref="char:EOLhyphen"/>ring <hi>Adam like</hi> to a condition above himſelf? be the reaſon, that every <hi>Abſalon</hi> aſpires to be made Judge, and every thiſtle or bramble aſpires to be a
+<pb n="3" facs="tcp:168345:3"/> King, I ſhall not now enquire, but obſerve that not onely the Apoſtles do inculcate this point of ſub<g ref="char:EOLhyphen"/>jection, but alſo in this text the Apoſtle charges the local Miniſter to put the Chriſtians, his Audi<g ref="char:EOLhyphen"/>tors in minde to be <hi>ſubject to principalities and powers, to obey Magiſtrates,</hi> and ſo leaves the Do<g ref="char:EOLhyphen"/>ctrine, as by entail upon all Miniſters, and the du<g ref="char:EOLhyphen"/>ty upon all Chriſtians, in all times.</p>
+            <p>In the Anatomy of this text, there will ariſe four conſiderable parts, which I will form up into as many points of Doctrine.</p>
+            <p>1 <hi>Who</hi> the Remembrancer is, whom the Apo<g ref="char:EOLhyphen"/>ſtle doth charge <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to put them in minde,</hi> and that is <hi>Titus,</hi> and all Colleagues with him in the Miniſterial Office, the Apoſtle one of the high<g ref="char:EOLhyphen"/>eſt authority Eccleſiaſtical, provides for the main<g ref="char:EOLhyphen"/>tenance of the higheſt authority Political in the Common-wealth, and if the people will ſubmit to the <hi>Miniſter</hi> of Doctrine, it may be preſumed they will ſubject themſelves to the Magiſtrate, who is the <hi>Miniſter</hi> of God for government, this firſt part I ſum up into this point.</p>
+            <p>1 That the Miniſter of the Word ought in his place and office to endeavour that the Scepter of Majeſty in the higheſt, the Sword of Magiſtrati<g ref="char:EOLhyphen"/>cal authority in the lower hand be kept in poſſeſ<g ref="char:EOLhyphen"/>ſion of their rights and dues, which are ſubjection and obedience of the people.</p>
+            <p>2 <hi>Whoſe</hi> Remembrancer the Miniſter is, and they are Chriſtians by their profeſſion, who come
+<pb n="4" facs="tcp:168345:4"/> to his crib to feed, Not heathens, who neither ac<g ref="char:EOLhyphen"/>knowledge any authority of God in the Miniſter, nor are much moved to this duty of obedience for conſcience towards God, but rather for fear, whereof (I mean the puniſhment) the Magiſtrate himſelf, not the Miniſter, is the proper executioner or Miniſter <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith the text, <hi>put them in minde,</hi> and ſo the ſecond point is.</p>
+            <p>No Chriſtian who is by his Chriſtianity <hi>mu<g ref="char:EOLhyphen"/>niceps Coeli,</hi> a freeman of <hi>Jeruſalem,</hi> hath by his Chriſtianity any priviledge that may exempt him from, or looſen the bands of that civil Authority which is over him, no, though it remain un<g ref="char:EOLhyphen"/>chriſtian.</p>
+            <p>3 Theſe things wherewith Chriſtians muſt be charged in relation to civil authority are ſumm'd up under two heads, <hi>ſubjection, obedience,</hi> put them in minde <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>The one</hi> of theſe calls for ſubjection to the function or office, re<g ref="char:EOLhyphen"/>member your ſubordination, that you are placed in a lower orbe, and therefore what the Higher pow<g ref="char:EOLhyphen"/>ers may look for of inferiour ſubjects, what the maſter though crabbed and crooked, may expect of his ſervants, that is, <hi>ſubjection,</hi> you muſt per<g ref="char:EOLhyphen"/>form, <hi>Rom. 13. 1. 1 Pet. 2. 13, 14. Titus 2. 9. 1 Pet.</hi> 2. 18, &amp;c.</p>
+            <p>
+               <hi>The other</hi> of theſe calls for obedience to their Laws and Commands, and that is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which though in the notion of the word it ſignifie to <hi>obey Magiſtrates</hi> or Rulers, and is ſo turned in our laſt
+<pb n="5" facs="tcp:168345:4"/> Engliſh Tranſlation in this place, yet is applyed to obedience to God, <hi>Acts</hi> 5. 29, 32. or unto our liſtenings to the perſwaſions of men, though no Magiſtrates, <hi>Acts</hi> 27. 21. I confeſs, that ſubjecti<g ref="char:EOLhyphen"/>on and obedience in common intention of ſpeech do not much differ.</p>
+            <p>When the word <hi>ſubject</hi> is ſet alone without a ſecond, it includes obedience, <hi>Rom. 13. 1. 1 Pet. 2. 13. Titus 2. verſe 5. &amp; 9 Luke 2. 51. Jam.</hi> 4. 7.</p>
+            <p>When the word <hi>obedient</hi> is ſet alone without a ſecond it comprehends ſubjection, <hi>Acts</hi> 5. 29, &amp;c. (I mean this of a voluntary and not enforced ſubje<g ref="char:EOLhyphen"/>ction, <hi>Luke</hi> 10. 17.) But when both theſe words are uſed together in the ſame place, as they are in this text, they may be more accurately diſtin<g ref="char:EOLhyphen"/>guiſht.</p>
+            <p>Subjection relates to the perſon, that is ſupream in <hi>place, function office,</hi> and the contrary, or oppo<g ref="char:EOLhyphen"/>ſite hereunto is reſiſtance; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, are oppoſed, <hi>Rom.</hi> 13. 2. that is, <hi>ſubjection</hi> and <hi>re<g ref="char:EOLhyphen"/>ſistance.</hi>
+            </p>
+            <p>
+               <hi>Obedience</hi> properly relates to the Magiſtrate his <hi>Edicts, Laws,</hi> lawful and honeſt <hi>commands.</hi>
+            </p>
+            <p>And it hath ordinarily been pleaded by honeſt diſobeyers of unjuſt commands; We refuſe not to be ſubject, we reſiſt not, we oppoſe not the autho<g ref="char:EOLhyphen"/>rity; therefore we ſubmit our ſelves to the pe<g ref="char:EOLhyphen"/>nalty of the Magiſtrates infliction without reſi<g ref="char:EOLhyphen"/>ſtance; but we dare not, we will not perform the command enjoyned, <hi>Dan.</hi> 3. 18. and thus its
+<pb n="6" facs="tcp:168345:5"/> plain, there may be ſubjection to juſt authority (for that is good and lawful) when there is not obedi<g ref="char:EOLhyphen"/>ence unto unjuſt commands: the one being ordai<g ref="char:EOLhyphen"/>ned of God; when the command may be contra<g ref="char:EOLhyphen"/>ry to, and againſt Gods.</p>
+            <p>The third point is <hi>the ſum of that debt,</hi> which the ſubject owes to the civil Magiſtrate, is to be ſub<g ref="char:EOLhyphen"/>ject to him in his place or office, and to be obedi<g ref="char:EOLhyphen"/>ent to him in his commands; I might ſay <hi>honeſt o<g ref="char:EOLhyphen"/>bedience,</hi> but that I look not to be carped, no more then the Apoſtles did, that gave this command to ſervants, to obey their maſters <hi>in all things, Col.</hi> 3. 22. nor yet (though I acknowledge the ſubject, or the ſervant to be (as he ſaid) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a ratio<g ref="char:EOLhyphen"/>nal inſtrument) would I open a gap for every un<g ref="char:EOLhyphen"/>quiet &amp; unſober diſpute, that on purpoſe, to ſhift off the Magiſtrates or the Maſters commands, may think it enough to pretend <hi>they are not honest,</hi> and ſo the Maſter ſhall indeed be the <hi>Maſter,</hi> but the ſervant is the <hi>Judge,</hi> the Magiſtrate is the <hi>Magi<g ref="char:EOLhyphen"/>ſtrate,</hi> but the ſubject is the <hi>Judge,</hi> which indeed he is <hi>of his own action,</hi> by the judgement of <hi>Diſcre<g ref="char:EOLhyphen"/>tion,</hi> but not of the command by the judgement of <hi>Authority,</hi> for that would be an eaſie way to over<g ref="char:EOLhyphen"/>turn both authority and obedience, and to leave all to the beſt diſputant.</p>
+            <p>4 <hi>Thoſe to whom</hi> this debt is to be paid, are the principalities &amp; powers, they are <hi>all</hi> that are in rank of Magiſtracy reſpectively, both the Higheſt and the Subordinate in this Scale; <hi>Principalities and Powers,</hi> ſaith the text, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>principalities,</hi> that
+<pb n="7" facs="tcp:168345:5"/> is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſupereminent, or ſuperexcel<g ref="char:EOLhyphen"/>lent powers, <hi>Rom.</hi> 13. 1. that are in higheſt orbe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>powers,</hi> thoſe that are Preſidents of Pro<g ref="char:EOLhyphen"/>vinces, who though not in higheſt orbe of Supre<g ref="char:EOLhyphen"/>macy, are yet in a neerer orbe to you, as being in the <hi>Sphere</hi> where you live. So the Apoſtle <hi>Peter, 1 Pet.</hi> 2. 14. Commands ſubjection, whether to them he calls <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Kings,</hi> ſo the Greek Authors call the <hi>Roman Emperours,</hi> meaning by Kings, ſuch as was at that time <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the Soverign<g ref="char:EOLhyphen"/>ty, and by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Governours,</hi> the inferiour Officers and Governours under the Supream, and the Apoſtle <hi>Paul</hi> thus expreſſes the ſeveral ranks of Magiſtrates, 1 <hi>Tim.</hi> 2. 2. Kings, and all that are in authority.</p>
+            <p>The Point of Doctrine is,</p>
+            <p>That this debt of ſubjection and obedience is due to all that have ſhare in the Civil Govern<g ref="char:EOLhyphen"/>ment <hi>reſpectively,</hi> whether they be in the Supre<g ref="char:EOLhyphen"/>macy or in Subordination.</p>
+            <p>The ſuperſcription that is upon a two pence, owns the ſame authority as that which is upon a twelve<g ref="char:EOLhyphen"/>pence, that word, <hi>Rom.</hi> 13. 4, 6, the Ruler is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Gods Miniſter</hi> to thee for good, Gods <hi>publick officer</hi> commends all Ma<g ref="char:EOLhyphen"/>giſtracy to us. If the Supreme Officer was like the Sun, which by his motion carries his light through his whole circuit, we ſhould need no more, but himſelf, but he is like the Sea that ha<g ref="char:EOLhyphen"/>ving all fulneſs in it ſelf, ſends from it ſelf foun<g ref="char:EOLhyphen"/>ains and rivers to water all the Continent whither
+<pb n="8" facs="tcp:168345:6"/> the Sea it ſelf cannot come; And God while he kept the chief Government over <hi>Iſrael</hi> (as I may ſay in his own hand, whereupon <hi>Joſephus</hi> calls it a <hi>Theocracy</hi>) did as we know, erect under himſelf <hi>Judges</hi> or <hi>Dictators</hi> in their neceſſities who (as one <note place="margin">Cunaeus de Repub.</note> obſerves) did alwayes proſper in their atchieve<g ref="char:EOLhyphen"/>ments, being (as I may ſay) Gods <hi>Lievtenants.</hi> In want of which we read, that there was no King in <hi>Iſrael,</hi> not becauſe the <hi>Sanhedrin</hi> did not ſit at thoſe times, but becauſe there was no Chief or So<g ref="char:EOLhyphen"/>vereign Magiſtrate that might exerciſe coercion, and work deliverance in <hi>Gods ſtead.</hi> As for the di<g ref="char:EOLhyphen"/>ſpenſation of common Juſtice they had the <hi>Se<g ref="char:EOLhyphen"/>venty,</hi> the <hi>Viginti Triumvirate</hi> in the greater, and a <hi>Triumvirate</hi> in the leſſer Towns, and thus the publick Juſtice was brought home to them, till there aroſe ſome hard matter to be determined by Appeal, whoſe judgement was final in the caſe, <hi>Deut.</hi> 17. 9, 10, 11, 12.</p>
+            <p>And therefore, if there be any (as there are) that think it neceſſary that the <hi>Judicials</hi> of the <hi>Jewes,</hi> and that the <hi>form</hi> and <hi>mode</hi> of Government that obtain'd amongſt them be re-introduced into o<g ref="char:EOLhyphen"/>ther States &amp; Kingdoms they may pleaſe to con<g ref="char:EOLhyphen"/>ſider, that even the <hi>Iewiſh</hi> form was variable, that the Apoſtle <hi>Peter</hi> commands Chriſtian ſub<g ref="char:EOLhyphen"/>jection to every <hi>humane ordinance,</hi> and that <hi>Paul</hi> ſaith, that the powers that be (that is in the world at that time) are ordained of God, <hi>Rom.</hi> 13. 2.</p>
+            <p>Theſe are the four points, which being thus cut
+<pb n="9" facs="tcp:168345:6"/> out ſhall be made up into further uſe in their or<g ref="char:EOLhyphen"/>der.</p>
+            <p>From the firſt of them, the Miniſters duty to put the people in minde of their obedience to Magi<g ref="char:EOLhyphen"/>ſtracie you may learn.</p>
+            <p>1 This duty is charged upon the Miniſter as the publick remembrancer of the people to whom is committed the diſpenſation of ſound doctrine, <hi>Titus</hi> 2. 1. ſerving to keep them right in the du<g ref="char:EOLhyphen"/>ties of their relations towards one another, and therefore it appears that God will honour the ſtanding Miniſtery with this publick ſervice, that the flock may not ſtand at any mans <hi>courteſie</hi> that will feed them (I ſay not poiſon them) but expect it from ſome hand of ſtanding duty, and it ap<g ref="char:EOLhyphen"/>pears that our Antimagiſtratical men, do for the ſame reaſon cry down the Miniſtery, as <hi>Demoſthe<g ref="char:EOLhyphen"/>nes</hi> obſerved the ſheep were required to deliver up their Dogs that wakened them by their barking at the comming of Wolves or Thieves.</p>
+            <p>2 A faithful Miniſtery is very uſeful to Civil Magiſtracie in diſcharge of this office of putting the people in minde of their ſubjection to authori<g ref="char:EOLhyphen"/>ty, for commonly people are querulous and waſp<g ref="char:EOLhyphen"/>iſhly froward againſt authority, and ſubjection to mans nature is grievous, good ſervice doth the Miniſter of Gods Word do for the Magiſtrate, who is alſo called the Miniſter of God in bearing of his ſword, and let theſe two Miniſters like twins ſupporting one the other flouriſh and live toge<g ref="char:EOLhyphen"/>ther,
+<pb n="10" facs="tcp:168345:7"/> good ſervice doth the Miniſter alſo for the people in warning them of their duty, and of their doing it for conſcience ſake, for heathen King<g ref="char:EOLhyphen"/>doms and Policies that want this office of remem<g ref="char:EOLhyphen"/>brancers do uſually more obey for wrath then conſcience. Oh! let not the Miniſter of the Word who is their Remembrancer cut the girdle of this relation between Magiſtrate and ſubject by blow<g ref="char:EOLhyphen"/>ing the one up into Tyranny, or laying him low into contempt or contumely, or by pulling away the other, <hi>viz. the ſubject</hi> as an Ivy from the tree that ſupports and ſuſtains it, for ſurely you ought not to turn your <hi>host</hi> out of dores, that gives the Goſpel houſe-room and hoſpitality in his Terri<g ref="char:EOLhyphen"/>tories, no though he were a Heathen, <hi>vae ſoli,</hi> wo be to either of them that is alone, I know and am ſorry that the Pulpit which is the Watch-tower whence this Remembrancer gives warning, is ſometimes ſo partial and ſo paſſionate as rather to ſeem to blow <hi>Sheba</hi> his Trumpet, or to throw dirt in the face of Authority, for I believe that God hath put this office on the Goſpel Miniſter, part<g ref="char:EOLhyphen"/>ly to ſweeten and make the Goſpel acceptable to States and Magiſtrates, which otherwiſe as a <hi>Bou<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efeau</hi> would (to ſpeak humanely) have been hunt<g ref="char:EOLhyphen"/>ed out of all places.</p>
+            <p>I conſeſs, it is not our place as the Heralds to blazon titles, or pragmatically to model forms and modes of Policy, ſuch have produced unhappy <hi>Empericks</hi> of the Body Politick, as unhappy as
+<pb n="11" facs="tcp:168345:7"/> 
+               <hi>Abiathar</hi> in being factor for <hi>Adonijah,</hi> 1 <hi>Kings</hi> 2. 26. or as <hi>Phaeton</hi> undertaking the Chariot of the Sun, but our office is to put ſervants in mind to be ſubject <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. 1 <hi>Tim</hi> 6. 1. to their <hi>own</hi> ma<g ref="char:EOLhyphen"/>ſters, &amp; wives to be ſubject, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 1 <hi>Pet.</hi> 3. 1. to their <hi>own</hi> husbands, ſo the people to be ſubject to their <hi>own</hi> Magiſtrates, <hi>viz.</hi> the <hi>powers that be</hi> in place and poſſeſſion of Magiſtracy. And therefore according to their partiality and fancy do cry up a Magiſtrate, that is of their own <hi>party</hi> or <hi>opinion,</hi> and the ſame man they cry down that is <hi>otherwiſe minded,</hi> ſeem to me to miſs the true grounds of ſubjection to him, which <hi>Sophocles</hi> hit better upon, ſaying, what then? Muſt we obey? Why not, ſaith he? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for they are Ru<g ref="char:EOLhyphen"/>lers in place of Magiſtracy, and the Apoſtle ſeems to hold to this rule, for he checks his own miſtake of calling <hi>Ananias</hi> the High Prieſt, <hi>whited wall;</hi> by alledging that text of ſpeaking evil of the Ruler of his people; and yet it is probable he knew not that he came into that place by lineal ſuc<g ref="char:EOLhyphen"/>ceſſion, but irregularly and ſurreptitiouſly, as moſt of them had done ſince the time of the <hi>Macchabees,</hi> and our Saviour told the captious <hi>Jews,</hi> that they receiving <hi>Caeſars</hi> Coine a ſigne of his Soverignty muſt in reaſon give to <hi>Caeſar</hi> what was his.</p>
+            <p>3 God is the countenancer and approver of Civil Magiſtracy, as appears in that he will have the Miniſter of his Word to put the people in mind to be ſubject to it, for it is the <hi>ordinance of God, Rom.</hi> 13. 2. and as the <hi>Romans</hi> made the Tri<g ref="char:EOLhyphen"/>bunes
+<pb n="12" facs="tcp:168345:8"/> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, inviolable, ſo hath God ſecured Magiſtracie from reſiſtance by denouncing dam<g ref="char:EOLhyphen"/>nation to <hi>reſiſters,</hi> God will maintain his own Mi<g ref="char:EOLhyphen"/>niſters, and ſuch are Magiſtrates though Heathen, but you muſt diſtinguiſh between the function or office it ſelf, which maintains peace and ſafety, a peaceable and quiet life in godlineſs and honeſty, and between the unlawful commands and luſts of the Magiſtrate, we may not reſiſt the office, we muſt not obey the unjuſt commands. If <hi>Jeroboam</hi> ſet up his Calves, or <hi>Nebuchadnezzar</hi> his Image, <hi>We will not ſerve thy gods, Dan.</hi> 3. 38. is the beſt anſwer, our diſobedience is our beſt obedience, God hath countenanced and honoured diſobeyers of ſinful commands, as we ſee in the three Wor<g ref="char:EOLhyphen"/>thies, but God hath not favoured ſeditious per<g ref="char:EOLhyphen"/>turbers of the Magiſtrate, as we ſee in <hi>Abſalom</hi> and <hi>Sheba,</hi> &amp;c.</p>
+            <p>From the ſecond point I ſhall commend to your further ſatisfaction two things.</p>
+            <p>1 Let no profeſſed Chriſtian imagine himſelf to be by his Chriſtianity the more free, or exempt from the civil authority, that is over him though it be Heatheniſh for this you ſhall neither learn from the <hi>head,</hi> nor from the <hi>Doctrine</hi> of our Chriſtian profeſſion. Our Lord Chriſt for his part acknow<g ref="char:EOLhyphen"/>ledged that <hi>Pilate</hi> his power over him was given of God, &amp; our doctrine is, that every man whereinhe is called muſt therein abide with God, 1 <hi>Cor.</hi> 7. 24. not forbidding a man thereby to better his co<g ref="char:cmbAbbrStroke">̄</g>diti<g ref="char:EOLhyphen"/>on
+<pb n="13" facs="tcp:168345:8"/> (if we may) but to uſe it rather, <hi>v.</hi> 21. but ſhew<g ref="char:EOLhyphen"/>ing that his priviledges though they be great, yet are they ſpirituall, and that his outward conditi<g ref="char:EOLhyphen"/>on and ſtate is not changed, or bettered by be<g ref="char:EOLhyphen"/>comming Chriſtian, the wife is not freed from her heathen husband, the bond ſervant is not made free from his maſter, the Subject not ex<g ref="char:EOLhyphen"/>empt from his tyrant, nor the priſoner from his priſon, for then the Goſpel hook would catch <hi>ſelfe-ended</hi> perſons for the bait ſake, but we have a better rule <hi>religio chriſtiana non tollit ordinatio<g ref="char:EOLhyphen"/>nes politicus</hi> the Chriſtian religion doth not abro<g ref="char:EOLhyphen"/>gate the wholſome ordinances of the State.</p>
+            <p>2 Neither doth Chriſtianity, prohibit a Chri<g ref="char:EOLhyphen"/>ſtian to be a Magiſtrate, nor a Chriſtian ſubject to pay him ſubjection, It is true unto the unlawfull commands either of the heathen or Chriſtian Ma<g ref="char:EOLhyphen"/>giſtrate it may be pleaded in barre, <hi>Acts</hi> 5. 29. We ought to obey God rather then men, but it was a ſpice of that deſperate Doctrine of thoſe <hi>Pſeudo<g ref="char:EOLhyphen"/>chriſtians</hi> the <hi>Gnoſticks</hi> to pleaſe their deluded followers and themſelves by promiſing liberty, 2 <hi>Pet.</hi> 2. 19. An egge of the ſame bird was that <hi>fury</hi> (call yee it) or <hi>deluſion</hi> of thoſe Ruſtick Pea<g ref="char:EOLhyphen"/>ſants, Libertines of <hi>Germany</hi> in our anceſtors days, who aroſe in ſuch ſwarms to take the ſword out of the Magiſtrates hand to put it into their owne ſcabbard, and to level their eſtates, into more plainneſs and evenneſs, pretending that the ſword of civil Authority becomes not a <hi>Chriſtian hand,</hi>
+               <pb n="14" facs="tcp:168345:9"/> nor do we ſay they find it in ſuch a hand in all the New Teſtament as if it might pleaſe them to have <hi>Pilate</hi> a Judge becauſe he judged Chriſt; no other muſt fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us. But ſhall we thinke? that <hi>John</hi> would not forbid the Publican his office as if inconſiſt<g ref="char:EOLhyphen"/>ent with Chriſtianity, and Chriſt hath forbidden the Magiſtrate his; Are the Jewiſh Magiſtrates called <hi>Gods?</hi> and do the Prophets call them <hi>Shields</hi> for their protection, <hi>Corners</hi> for their ſup<g ref="char:EOLhyphen"/>port, <hi>Nayles</hi> for their uniting of the people. <hi>Zac.</hi> 10. 6. <hi>Iſa.</hi> 22. 23. <hi>Hoſ.</hi> 4. 18. Doth the New Teſtament call them <hi>Dignities, Principalities, Powers,</hi> yea the very heathen Magiſtrates, <hi>Mini<g ref="char:EOLhyphen"/>ſters</hi> and <hi>Officers</hi> for <hi>God</hi> and for thy <hi>Good. Rom.</hi> 13. Doe the Heathens <hi>Plato</hi> and <hi>Homer</hi> call them <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Saviours</hi> and <hi>Shephearas</hi> of the people, (for ſo they are by the intention of their office and place, thought they be <hi>Nero's</hi> for blood and luſt,) and ſhall they that are promiſed to be nurſing fathers, <hi>Iſa</hi> 49. that are commanded to be ſo wiſe as to kiſſe the ſon, <hi>Pſal</hi> 2. that are pro<g ref="char:EOLhyphen"/>pheſied to tread upon the Heathen Empire, and cruſh the bloody Dragon, be unfit to make a nail in the Goſpell Commonwealth?</p>
+            <p>What muſt we turne our direction croſſe to the Apoſtle, and put Chriſtians in mind not to be ſubject to Chriſtian Magiſtrates, and make them incapable of Government of Chriſtians that are moſt fit for it, and for whom we muſt pray that we may live, a peaceable life in all godlineſſe and
+<pb n="15" facs="tcp:168345:9"/> honeſty, for this is good and acceptable in the fight of God, our Saviour, 1 <hi>Tim.</hi> 2. 13 <hi>Qui reg<g ref="char:EOLhyphen"/>na dat coeleſtia, non adimit terrena,</hi> Will Chriſt take mens kingdoms away if they turn Chriſti<g ref="char:EOLhyphen"/>ans? Will he that is King of Kings have under his Empire no Chriſtian Kings? ſutely the Apo<g ref="char:EOLhyphen"/>ſtle commands, 1 <hi>Tim.</hi> 6.2. Thoſe ſervants that have believing maſters, the <hi>rather to do them ſer<g ref="char:EOLhyphen"/>vice,</hi> and why the ſubject that hath a believing Magiſtrate ſhould not do ſo too, I know not. In fine, I might argue againſt this <hi>denial</hi> of Chriſtian Magiſtracie by argument drawn from the ſcan<g ref="char:EOLhyphen"/>pall which it draws upon Religion (whereof Chriſt teaches every Chriſtian to be chary, <hi>Matth.</hi> 17. 27.) but that I finde this kind of Libertines are not much moved with ſuch arguments, nor are they much in date or in requeſt with many that moſt pretend to holineſs, in theſe times.</p>
+            <p>I have uſed this length upon this place of Do<g ref="char:EOLhyphen"/>ctrine, not becauſe the ſober part of men (as I hope) do much need it, but as the Apoſtle ſaith, 2 <hi>Theſ.</hi> 2. 2. <hi>That you be not ſoon ſhaken in minde, as that the day of Chriſt is at hand,</hi> ſo I ſay to you that you be not ſhaken in minde, as that the Kingdom of Chriſt (as ſome ſay) was at the threſhold, even now in 1656. For as its ſaid, <hi>Luke</hi> 17. 20. this Kingdom comes not with obſervation. Its a <hi>Jew<g ref="char:EOLhyphen"/>iſh</hi> fancy to look for ſuch pomp and ſplendor as temporal Monarchs are furniſht with; It is within and already (ſaith he) <hi>amongſt you,</hi> for my King<g ref="char:EOLhyphen"/>dom is not of this world. It was ſet up in the days
+<pb n="16" facs="tcp:168345:10"/> 
+               <hi>of thoſe Kings</hi> (as <hi>Daniel</hi> ſaith, <hi>Cap.</hi> 2. 44. and ſhall never be deſtroyed, but certainly that ſuch a tem<g ref="char:EOLhyphen"/>poral Kingdom of Chriſt is ſo neer as ſhall put down the temporal civil Magiſtracy as now it ob<g ref="char:EOLhyphen"/>tains, as Tapers that are eclipſed by the Sun, or Candle-ruſhes put out by Torches, is more then I can affirm and hath ſome unpleaſant reflexion up<g ref="char:EOLhyphen"/>on the Magiſtracy Chriſtian.</p>
+            <p>From the third Point obſerve:</p>
+            <p>That this great debt of ſubjection and obedi<g ref="char:EOLhyphen"/>ence be duly paid without grudging, two things call for payment. 1 The command of God whoſe Officer the Magiſtrate is. 2 Your own good by whom you ſleepe, you walke, you are maſters of your own, you are Maſters of your lives, you hold all theſe at this Rent-ſervice, your ſubjection. There is a certain light in mans minde, that tels them they cannot live together in ſociety without this <hi>nail,</hi> the mutinous members that roſe up againſt the belly for eating up their la<g ref="char:EOLhyphen"/>bours were quieted by this oratory, that it did but digeſt the meat for them, nothing more pernicions then the inferiour his refuſal of obedience to the Magiſtrate, eſpecially you that are Chriſtians have <hi>moſt benefit</hi> by Magiſtracy, for you are expoſed to more envy of wicked men by your profeſſion, and are by your principles more unarmed from private revenge.</p>
+            <p>Beſides that, you hold your Religion, your greateſt treaſure in peaceable poſſeſſion by his in<g ref="char:EOLhyphen"/>ſpection and protection, except the Magiſtrate
+<pb n="17" facs="tcp:168345:10"/> ſhall profeſs himſelf a <hi>Gallio</hi> that cares for no ſuch thing, or be like <hi>Eſarhaddon,</hi> that ſent into the Kingdom of ſubdued <hi>Iſrael,</hi> a mixture or galli<g ref="char:EOLhyphen"/>maufrey of ſeveral Religions in deſigne, <hi>ut in com<g ref="char:EOLhyphen"/>mune conſulere non ſineret religionum diverſit as,</hi> that is, That diverſity of Religion might hinder common counſels.</p>
+            <p>But this Province, I confeſs, properly belongs to the Sovereigne, though for the executive part to every Magiſtrate in his order &amp; place, as the cauſe of the falſe prophet pertained to the Supream Ju<g ref="char:EOLhyphen"/>dicature, therefore our Saviour ſaith (as <hi>Cunaeus</hi> ob<g ref="char:EOLhyphen"/>ſerves) <note place="margin">Cunaeus de Repub.</note> that a Prophet could not periſh out of <hi>Je<g ref="char:EOLhyphen"/>ruſalem.</hi> Blaſphemy hurts the name, Hereſie the Truth, Idolatry the worſhip of God, of theſe the Magiſtrate is as he is called the heir of reſtraint, <hi>Judges</hi> 18. 17. for in this the Prince as a Prince may ſerve God and cannot do it as he is as a pri<g ref="char:EOLhyphen"/>vate man, I beſpeak this at the Magiſtrates hand, I mean <hi>reſtraint,</hi> for that God expects it at his hand is plain by that, that Idolatry was ſet up in <hi>Micah</hi> his houſe, <hi>Judges</hi> 17.8. becauſe at that time there was no King in <hi>Iſrael.</hi> Thoſe that ſaid, <hi>Quid Im<g ref="char:EOLhyphen"/>peratoricum Eccleſia</hi> (the <hi>Donatiſts</hi>) are juſtly up<g ref="char:EOLhyphen"/>braided by <hi>Auguſtine,</hi> that when the Emperour was againſt them, they cryed that cry, When for them they changed their note as their own partia<g ref="char:EOLhyphen"/>lity and intereſt led them, as all ſuch kinde of ſpi<g ref="char:EOLhyphen"/>rits, will ſtill do at this day.</p>
+            <p>The Magiſtrate will puniſh corporal adultery,
+<pb n="18" facs="tcp:168345:11"/> will prohibit the ſale of poyſonous Drugs, and there is no great reaſon, but that the calamity of the Common-wealth may be prevented, which may accrue by depravation of Religion, for there<g ref="char:EOLhyphen"/>by <hi>Reſpublica detrimentum capit,</hi> as Hiſtory and Experience may inform; as for the Miniſters way, it is conviction, ſo Chriſt dealt with the Sa<g ref="char:EOLhyphen"/>ducees, and the Churches way is <hi>binding</hi> by Co<g ref="char:EOLhyphen"/>ercion; and the Magiſtrates way, is reſtraint an co<g ref="char:EOLhyphen"/>ercion in a civil way.</p>
+            <p>The Doctrine of this Church always was, that the intermedling of the Civil Magiſtrate <hi>in ſacris,</hi> was not that of <hi>Uzzia,</hi> but of <hi>Hezekiah, Joſiah, &amp;c.</hi> not to perform them, but to ſee them done, as <hi>Reinolds</hi> againſt <hi>Hart</hi> ſaith. The Inferences from the fourth point are theſe which follow.</p>
+            <p>1 To put you in minde of the <hi>Extent</hi> of this duty of ſubjection and obedience, it reaches from him that is in higheſt, to him that is of loweſt rank in Magiſtracy, all that have the ſtamp or mark of authority upon them, though the money differ in value, yet there is a ſuperſcription on the leaſt piece, which ſpeaks the ſame authority, the image of <hi>Caeſar</hi> was upon a peny. The lower Of<g ref="char:EOLhyphen"/>ficers are the <hi>Supream,</hi> his <hi>eyes, eares, hands,</hi> and therefore in them Magiſtracy may be wounded, <hi>be ſubject,</hi> (ſaith the Apoſtle) <hi>to every ordinance</hi> of man, whether he be <hi>Supream,</hi> or <hi>Governours</hi> under him, 1 <hi>Pet.</hi> 2. 13. and it muſt be to both for the ſame reaſon, for the <hi>Lords ſake,</hi> for <hi>conſcience ſake, Rom.</hi> 13. The honour of a childe due to his <hi>fa<g ref="char:EOLhyphen"/>ther,</hi>
+               <pb n="19" facs="tcp:168345:11"/> the ſubjection of a ſervant to a <hi>Maſter,</hi> the reſpect of a wife towards a <hi>Husband,</hi> and ſo the ſubjection of a <hi>ſubject</hi> to a <hi>Magiſtrate<g ref="char:punc">▪</g>
+               </hi> are not paid according to the <hi>grandeur</hi> of the perſon of the Superiour, but according to the relation in which he ſtands, to thee and me; but yet this is not ſo much conſidered as it ought to be.</p>
+            <p>2 To encourage the Magiſtrate what he may juſtly expect from the people under him, while he acts within his ſphere, and ſtretches not his com<g ref="char:EOLhyphen"/>mands beyond his place; ſo though he be in low<g ref="char:EOLhyphen"/>eſt orbe, yet he hath by office a ſhare, and ſome pittance of authority wherein as Gods Miniſter for the conſervation of the Peace and ſafety of the body he may expect protection and act (boldly, though not proudly) as not fearing the contempt of lofty ſpirits, but let every lower officer, carry in his eye the law of his place, for though the zeal of <hi>Phineas</hi> be highly commended by God in ſuch a caſe as many men doe not underſtand the war<g ref="char:EOLhyphen"/>rant, which doubtleſſe was unqueſtionable, as alſo that of <hi>Moſes</hi> in his killing the <hi>Egyptian,</hi> yet ordinarily, the ſubordinate Magiſtrate ſhall do well to obſerve the law of his place and verge of his power, ſo that he himſelf is like the <hi>genus ſub<g ref="char:EOLhyphen"/>alternum, that is,</hi> but a private man in reſpect of that authority which is above, and Paramount to the place that he is in, and we know that a two pence will go but for a two pence, though it have a lawful ſuperſcription as a bigger piece.</p>
+            <pb n="20" facs="tcp:168345:12"/>
+            <p>3 To enform the ſubject that howſoever he may be a greater man in birth, eſtate, riches, &amp;c. then the Magiſtrate, whom he diſdainfully over<g ref="char:EOLhyphen"/>looks, as the Cedar doth the ſhrub, yet that God doth co<g ref="char:cmbAbbrStroke">̄</g>mand ſubjection &amp; obedience to the Ma<g ref="char:EOLhyphen"/>giſtrate both ſupream and lower, not meerly for or according to the length of his ſword, but for con<g ref="char:EOLhyphen"/>ſcience towards God, upon whom the deſpiſing of his meaneſt Miniſters reflects diſhonour, and unto whom it is a diſpleaſure, as the clipping but of two peces as to the Prince, whoſe honor is therby taken to be diminiſhed, though they be of ſmall value.</p>
+            <p>I ſhall conclude with a word to you that are the Electors of this next years Lord Major, know that your <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or Suffrage, is a talent that is put into your hand, of which you muſt give ac<g ref="char:EOLhyphen"/>count, it was an ancient conſtitution in the Electi<g ref="char:EOLhyphen"/>on of a Biſhop, <hi>Ut non ordo, ſed meritum crearet Epiſcopum:</hi> not ſeniority or order of courſe, but merit ſhould make a Biſhop. I know not whom you have in eye, let both be, if you pleaſe, and as it was ſaid, 1 <hi>Sam.</hi> 16. 8. Look not upon externals, the mans countenance, but look unto thoſe ſeven qualifications, (as the <hi>Hebrews</hi> number them) which God requires in a Head or Judge, <hi>Exod. 18. 21. Deut.</hi> 1. 15. which are all required (as is ob<g ref="char:EOLhyphen"/>ſerved) to be found in him that is but one of <hi>Tri<g ref="char:EOLhyphen"/>umvirate,</hi> or but a Captain of Tens, how much more in a Lord Major of <hi>London.</hi>
+            </p>
+            <p>And you, Sir, whom the Lord will honour,
+<pb n="21" facs="tcp:168345:12"/> pray that God would pleaſe to inaugurate you in<g ref="char:EOLhyphen"/>to your Government by pouring another ſpirit on you, and the Lord ſupport and guide you to fol<g ref="char:EOLhyphen"/>low the pattern of their wiſdom that have broke the Ice before you in this weighty ſervice.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>The Books following are printed for <hi>Abel Roper,</hi> at the Sun againſt S. <hi>Dunſtans</hi> Church in <hi>Fleetſtreet.</hi>
+            </head>
+            <p>12 Sermons preached upon ſeveral eminent oc<g ref="char:EOLhyphen"/>caſions by Mr. <hi>Richard Vines. Viz.</hi>
+            </p>
+            <p>1 <hi>Calebs Integrity,</hi> A Faſt Sermon before the Houſe of Commons, on <hi>Numb. 14, 24.</hi>
+            </p>
+            <p>2 <hi>The Impoſture of Seducing Teachers,</hi> diſco<g ref="char:EOLhyphen"/>vered in a Spittle Sermon before the Lord Major, Aldermen, &amp;c. On <hi>Epheſ. 4.</hi> 14, 15.</p>
+            <p>3 <hi>Magnalia Dei ab Aqu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lone,</hi> A Thankſgiving Sermon before both Houſes of Parliament, on <hi>Iſai. 63. 8.</hi>
+            </p>
+            <p>4 <hi>The poſture of</hi> Davids <hi>ſpirit in a doubtful Condition,</hi> a Faſt Sermon before the Houſe of Commons, on <hi>2 Sam. 15 25, 26.</hi>
+            </p>
+            <p>5 <hi>The Happineſs of</hi> Iſrael, A Thankſgiving Sermon before both Houſes of Parliament, and the City of <hi>London,</hi> on <hi>Deut. 33. 29.</hi>
+            </p>
+            <p>6 <hi>The purifying unclean Hearts and Hands,</hi> A Faſt Sermon before the Houſe of Commons, on <hi>James 4. 6.</hi>
+            </p>
+            <p>7 <hi>The Hearſe of the Renowmed</hi> Robert <hi>Earl of</hi>
+               <pb n="22" facs="tcp:168345:13"/> Eſſex, A Sermon at his Funeral on <hi>2 Sam.</hi> 3. 38.</p>
+            <p>8 <hi>The Authors, Nature and Danger of Hereſie,</hi> a Faſt Sermon before the Houſe of Commons, on 2 <hi>Col. 2. 1.</hi>
+            </p>
+            <p>9, 10, 11. <hi>Subjection to Magiſtrates both ſupream and ſubordinate,</hi> in three Sermons preached at the Elections of the Lord Major of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> 3 yeers ſucceſſively, on <hi>2 Pet 13. 14, 15, 16.</hi>
+            </p>
+            <p>12 <hi>Corruption of Minde deſcribed,</hi> In a Sermon preached at <hi>Pauls</hi> on <hi>2 Cor. 2. 17.</hi>
+            </p>
+            <p>The Growth and Spreading of Hereſie, a Faſt Sermon before the Houſe of Commons by Mr. <hi>Thomas Hodges</hi> on 2 <hi>Pet.</hi> 2. 2.</p>
+            <p>The Noble Order, a Faſt Sermon before the Houſe of Lords by Mr. <hi>Daniel Evance,</hi> on 1 <hi>Sam.</hi> 2. 30.</p>
+            <p>A Vindication of the Birth, Priviledge or Covenant Holineſſe of Beleevers and their Office in the times of the Goſpel, with the right of Infants to Baptiſme, by Mr. <hi>Thomas Blake</hi> in anſwer to Mr. <hi>Tombes.</hi>
+            </p>
+            <p>
+               <hi>Vindiciae Foederis,</hi> or a Treatiſe of the Covenant of God entred with mankind in the ſeveral kinds and de<g ref="char:EOLhyphen"/>grees of it by Mr. <hi>Thomas Blake.</hi>
+            </p>
+            <p>The Covenant ſealed, or a Treatiſe of the Sacraments of both Covenants, Polemicall aod Practicall, eſpecially of the Sacraments of the Covenant of Grace, by Mr. <hi>Thomas Blake.</hi>
+            </p>
+            <p>Saint <hi>Auguſtines</hi> Confeſſions, tranſlated into Engliſh, illuſtrated with notes, wherein divers Antiquities are ex<g ref="char:EOLhyphen"/>plained by Dr. <hi>Wats.</hi>
+            </p>
+            <p>A New A. B. C. or ſhort Catechiſme compoſed accor<g ref="char:EOLhyphen"/>ding to the Rules and Directions concerning ſuſpenſion from the Sacrament of the Lords Supper in caſe of igno<g ref="char:EOLhyphen"/>rance; publiſhed for the help of ignorant people by Mr. <hi>John Buckley</hi> Paſtor of <hi>Thurleſtone</hi> in <hi>Devon.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
